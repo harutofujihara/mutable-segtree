@@ -1,6 +1,6 @@
 # mutable-segtree
 
-An implementation of IMMUTABLE segment tree in scala.
+An implementation of segment tree in scala.
 
 ## Test
 ```
